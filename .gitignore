@@ -1,0 +1,12 @@
+# .gitignore
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE or editor-specific files
+.vscode/
+.idea/
+
+# Ignore Node.js dependencies
+node_modules/
